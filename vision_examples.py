@@ -1,7 +1,7 @@
 import cv2 as cv
 import numpy as np
 
-vid = cv.VideoCapture("/Users/home/Desktop/ARC_rc_soccer/0001-0601.mp4", 0)
+vid = cv.VideoCapture("0001-0601.mp4", 0)
 
 
 #Dimensions of video frame
